@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.link-menu {
+    color: #ced4da;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.btn-comprar {
+    background-color: #8b5e34;
+    border: 0;
+}
+
+.caixa-imagem {
+    background-color: #000;
+    color: #fff;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.accordion-faq {
+    max-width: 560px;
+    background-color: white;
+}
+
+footer {
+    color: #adb5bd;
+    font-size: 13px;
+}
